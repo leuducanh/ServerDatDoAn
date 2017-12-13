@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/firebase/SendNoti.java=UTF-8
+encoding//src/main/java/ws/controller/CuaHangResource.java=UTF-8
+encoding//src/main/java/ws/controller/TaiKhoanResource.java=UTF-8
+encoding//src/main/java/ws/database/CuaHangDAO.java=UTF-8
+encoding//src/main/java/ws/database/DonHangDAO.java=UTF-8
+encoding//src/main/java/ws/service/DonHangService.java=UTF-8
+encoding//src/main/java/ws/service/sendsms/SpeedSMS.java=UTF-8
